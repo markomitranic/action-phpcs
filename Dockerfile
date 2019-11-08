@@ -1,4 +1,4 @@
-FROM php:5.6-fpm-alpine
+FROM php:7.3-fpm-alpine
 
 LABEL "com.github.actions.icon"="code"
 LABEL "com.github.actions.color"="purple"
